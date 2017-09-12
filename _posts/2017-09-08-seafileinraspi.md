@@ -18,5 +18,5 @@ title: 树莓派上的seafile
 解决问题2，使用docker，在树莓派上安装docker环境，在docker hub中搜索rpi－seafile。 
 
 成功运行。。
-![Raspi](images/raspi_seafile_usb.jpg)  
-![real](images/respi_real.jpg)
+![Raspi]({{ site.url }}/images/raspi_seafile_usb.jpg)  
+![real]({{ site.url }}/images/respi_real.jpg)
