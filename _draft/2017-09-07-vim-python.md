@@ -17,3 +17,5 @@ j34liu@FrankTest:~$ vim --version | grep python
 +comments          +libcall           +python            +vreplace
 +conceal           +linebreak         -python3           +wildignore
 Linking: gcc   -L/usr/local/lib -Wl,--as-needed -o vim        -lm -ltinfo -lnsl   -ldl    -L/usr/lib/python2.7/config-x86_64-linux-gnu -lpython2.7 -lpthread -ldl -lutil -lm -Xlinker -export-dynamic -Wl,-O1 -Wl,-Bsymbolic-functions
+
+###### Test 测试下是在Ubuntu下面使用Pycharm提交github是不是正常的。
