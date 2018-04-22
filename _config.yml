@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               OTC's blog
-tagline:             '黑嘿嘿'
-description:         '猜猜为啥叫OTC?'
+title:               谷达的黑板报
+tagline:             '非著名IT从业人员'
+description:         ''
 url:                 https://frank809.github.io
 baseurl:             ''
 paginate:            5
